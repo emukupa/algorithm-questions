@@ -10,7 +10,7 @@ Given a mapping of digits to letters (as in a phone number), and a digit string,
 
 For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
-### Pseudo Code / Exmplanations
+### Test Cases / Pseudo Code / Exmplanations
 
 - TODO
 
